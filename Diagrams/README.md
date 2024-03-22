@@ -1,6 +1,7 @@
 # Intuit Invoice System UML Overview
 ## Structural Diagrams
   - Class Diagram
+  ![image-link](./images/class_diagram.png)
 ## Behavioral Diagrams
   - Use Case Diagram
     
@@ -26,7 +27,6 @@
     - Update Invoice: Allows for modifications and updates to be made to the invoice details.
 
 Incorporating the listed improvements, the use case diagram now better reflects the comprehensive flow of actions and interactions within the Invoice Management System. The addition of an acknowledgment to the business owner regarding the successful delivery of the invoice ensures clarity in communication, while the option for the customer to decline the invoice adds a layer of verification and trust to the transaction process. These enhancements aim to streamline operations, reduce errors, and improve the overall satisfaction of both the business owner and the customers.
-![image-link](./images/class_diagram.png)
   - Activity Diagram
   - Sequence Diagram
   - Communication Diagram
