@@ -1,6 +1,6 @@
 # Intuit Invoice System UML Overview
 ## Structural Diagrams
--  ###### Class Diagram
+-  <b>Class Diagram</b>
   ![image-link](./images/class_diagram.png)
 ## Behavioral Diagrams
   - Use Case Diagram
