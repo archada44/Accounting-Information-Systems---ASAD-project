@@ -74,11 +74,11 @@ Invoice Validation: Each invoice undergoes a validation process to ensure accura
     - Overdue Invoices Found: Trigger sending of reminder emails to prompt payment.
     - No Overdue Invoices: No action needed, indicating a healthy accounts receivable status.
 #### Notable Actions:
-<b>Auto-Generated Mail (Invoice Delivery Confirmation)</b>
-- Automatically sent upon invoice creation or import to confirm delivery to the customer.
+- <b>Auto-Generated Mail (Invoice Delivery Confirmation)</b>
+  - Automatically sent upon invoice creation or import to confirm delivery to the customer.
 
-<b>Send Invoice to Customer</b>: 
-- After validation and any necessary corrections, the invoice is forwarded to the customer, marking a crucial step in the invoicing process.
+- <b>Send Invoice to Customer(Updated)</b>: 
+  - After validation and any necessary corrections, the invoice is forwarded to the customer, marking a crucial step in the invoicing process.
 #### End of the Process:
 - The diagram concludes with the resolution of invoice payments, whether through direct updates after online payments or post-bank confirmation for cheques, alongside managing overdue invoices through reminders or acknowledgments of their absence.
 
