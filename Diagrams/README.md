@@ -3,6 +3,7 @@
 -  ### Class Diagram
 
 A class diagram is a type of static structure diagram in the Unified Modeling Language (UML) that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among the classes. It serves as a blueprint for the construction of the system's components and is fundamental to object-oriented modeling.
+
   ![image-link](./images/class_diagram2.png)
 
   The class diagram above is a structural representation of the objects within the Invoice Management System, detailing how they interact with each other within the system.
