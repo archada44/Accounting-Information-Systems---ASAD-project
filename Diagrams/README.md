@@ -7,7 +7,7 @@ A class diagram is a type of static structure diagram in the Unified Modeling La
 
   The class diagram above is a structural representation of the objects within the Invoice Management System, detailing how they interact with each other within the system.
 
-The diagram includes the following classes:
+#### The diagram includes the following classes:
 
 - <b>Customer</b>: Holds details about the customer, such as name, email, and address, and has methods to pay bills, validate details, and approve payments.
 - <b>Business Owner</b>: Contains information about the business owner, including their name, email, and customer address. This class is responsible for payment deposits, invoice creation and importation, manual updates of invoice payment status, checks for overdue payments, viewing customer payment history, and report generation.
