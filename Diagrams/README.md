@@ -3,7 +3,7 @@
 -  ### Class Diagram
 
 A class diagram is a type of static structure diagram in the Unified Modeling Language (UML) that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among the classes. It serves as a blueprint for the construction of the system's components and is fundamental to object-oriented modeling.
-  ![image-link](./images/class_diagram.png)
+  ![image-link](./images/class_diagram2.png)
 
   The class diagram above is a structural representation of the objects within the Invoice Management System, detailing how they interact with each other within the system.
 
@@ -24,7 +24,7 @@ This diagram effectively captures the key entities of the system and their inter
     
   This use case diagram represents the interactions between the users (Customer and Business Owner), and the Invoice Management System, as facilitated through an interface. The diagram captures the core functionalities provided by the system to enable effective and efficient management of invoices and related activities.
 
-  ![image-link](./images/use_case_1.png)
+  ![image-link](./images/use_case3.png)
 
   
 <b>Business Owner </b>: The business owner is responsible for the creation and management of invoices. They can perform several critical actions such as:
@@ -51,7 +51,7 @@ Incorporating the listed improvements, the use case diagram now better reflects 
 
 The activity diagram outlines a comprehensive process for managing invoices and payments within a Quickbooks (QB) system, involving interactions between customers, the QB system, and the business owner. The diagram captures the sequence of actions.
 
-  ![image-link](./images/activity_diagram.png)
+  ![image-link](./images/activity_diagram3.png)
 
 #### Start of the Process:
 1. <b>Get Customer Details</b>: The process begins with gathering necessary customer details, essential for generating an invoice.
@@ -91,7 +91,7 @@ This structured description aims to encapsulate the detailed workflow captured i
 
 The sequence diagram visualizes the interactions among the Business Owner, Customer, Intuit Quickbooks, and Bank, detailing the process flow for invoice generation and payment processing.
 
-![image-link](./images/sequence_diagram.png)
+![image-link](./images/sequence_diagram2.png)
 
 #### Participants:
 - <b>Business Owner</b>: Initiates the process by creating an invoice.
