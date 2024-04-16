@@ -25,7 +25,7 @@ This diagram effectively captures the key entities of the system and their inter
     
   This use case diagram represents the interactions between the users (Customer and Business Owner), and the Invoice Management System, as facilitated through an interface. The diagram captures the core functionalities provided by the system to enable effective and efficient management of invoices and related activities.
 
-  ![image-link](./images/use_case4.png)
+  ![image-link](./images/use_case5.png)
 
   
 <b>Business Owner </b>: The business owner is responsible for the creation and management of invoices. They can perform several critical actions such as:
